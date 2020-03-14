@@ -1,0 +1,3 @@
+rootProject.name='KotlinAndroidAndIOSExemple'
+include ':app'
+include ':SharedCode'
